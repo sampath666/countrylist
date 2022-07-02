@@ -1,0 +1,29 @@
+.d2 {
+  display: flex;
+  width: 80vw;
+  height: 60px;
+  border: 1px solid #334155;
+  padding-left: 20px;
+  padding-right: 30px;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #1f1f1f;
+}
+
+.p1 {
+  color: #ffffff;
+  font-size: 15px;
+}
+
+.b1 {
+  background-color: #3b82f6;
+  border-radius: 5px;
+  height: 35px;
+  width: 80px;
+  color: #ffffff;
+}
+
+.b12 {
+  font-size: 16px;
+  color: #cbd5e1;
+}
